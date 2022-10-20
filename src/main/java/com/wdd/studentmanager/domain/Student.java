@@ -1,5 +1,6 @@
 package com.wdd.studentmanager.domain;
 
+
 public class Student {
 	private int id;
 	private String sn;//学号
